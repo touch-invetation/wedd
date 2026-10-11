@@ -101,7 +101,7 @@ body,
 }
 
 .slide-2 {
-  background: url("./download.png");
+  /* background: url("./download.png"); */
   background-repeat: no-repeat;
   background-size: cover;
 }
